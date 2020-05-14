@@ -1,8 +1,6 @@
 # price-monitoring
 web-site for price monitoring from shops
 
---
-
 This is testing community developing IT projects for newbies.
 
 At the moment we create web site. 
